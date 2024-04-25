@@ -1,44 +1,22 @@
-### Hi there 👋
+### Ciao 👋🏻
+<h3> 👨🏻‍💻 Io </h3>
 
-<!--
-**alx-pros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- 🎓 &nbsp; Laurea triennale in Scienze della Comunicazione in DAMS (Discipline dell'audiovisivo, dei Media e dello Spettacolo).
+- 🌱 &nbsp; Deterimanto a crescere ed evolvere nella professione creativa tra video, immagini, musica, progettazione grafica e web.
+- ✍🏻 &nbsp; Curioso e aperto sempre a nuove esperienze.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Competenze informatiche </h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
-- Open for project collaboration and internship opportunities. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | Javascript | Python | C++ | C# | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
-- 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
-
+- 🎥 &nbsp; Davinci Resolve | Premiere Pro | Final Cut Pro
+- 🎆 &nbsp; Illustrator | Photoshop | InDesign | Lightroom
+- ⬛️ &nbsp; Blender | After Effects | Cinema4d | Motion
+- 🎵 &nbsp; Logic Pro | Audition
+- 🌐 &nbsp; HTML | CSS | SCSS | Bootstrap | Tailwinnd CSS | Javascript | React.JS 
+- 🔧 &nbsp; Git/GitHub | Visual Studio Code
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=alx-pros&show_icons=true)
 
-### 📫🤝🏻 Connect with Me
+### 📫🤝🏻 Contattami
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:arshradhanpura288@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
-
-
-
-
- ⭐️ From [Arsh](https://github.com/[onlyArsh])
+ - Su [LinkedIn](https://www.linkedin.com/in/alex-prostamo-245809235/) 👨🏻‍💻
+ - Per [Email](alex.prostamo@gmail.com) 💌
