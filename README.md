@@ -14,8 +14,6 @@
 - 🌐 &nbsp; HTML | CSS | SCSS | Bootstrap | Tailwinnd CSS | Javascript | React.JS 
 - 🔧 &nbsp; Git/GitHub | Visual Studio Code
 
-![github stats](https://github-readme-stats.vercel.app/api?username=alx-pros&show_icons=true)
-
 ### 📫🤝🏻 Contattami
 
  - Su [LinkedIn](https://www.linkedin.com/in/alex-prostamo-245809235/) 👨🏻‍💻
