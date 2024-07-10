@@ -3,7 +3,7 @@
 
 - 🎓 &nbsp; Laurea triennale in Scienze della Comunicazione in DAMS (Discipline dell'audiovisivo, dei Media e dello Spettacolo).
 - 🌱 &nbsp; Deterimanto a crescere ed evolvere nella professione creativa tra video, immagini, musica, progettazione grafica e web.
-- ✍🏻 &nbsp; Curioso e aperto sempre a nuove esperienze.
+- ✍🏻 &nbsp; Curioso e aperto a nuove esperienze.
 
 <h3>🛠 Competenze informatiche </h3>
 
