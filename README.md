@@ -11,7 +11,7 @@
 - 🎆 &nbsp; Illustrator | Photoshop | InDesign | Lightroom
 - ⬛️ &nbsp; Blender | After Effects | Cinema4d | Motion
 - 🎵 &nbsp; Logic Pro | Audition
-- 🌐 &nbsp; HTML | CSS | SCSS | Bootstrap | Tailwinnd CSS | Javascript | React.JS 
+- 🌐 &nbsp; HTML | CSS | SCSS | Bootstrap | Tailwind CSS | Javascript | TypeScript | React.JS | React Native
 - 🔧 &nbsp; Git/GitHub | Visual Studio Code
 
 ### 📫🤝🏻 Contattami
